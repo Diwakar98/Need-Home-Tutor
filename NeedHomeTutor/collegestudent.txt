@@ -1,0 +1,28 @@
+<HR style =" border: 1px solid #ac80ff; width: 300px; border-radius: 2px;">
+        <div id="class_pref_row">
+          <label for="Btech" style="margin-right: 25px"><strong>Btech:</strong></label>
+          <input type="checkbox" name="Class[]" value="Btech1">
+          <label for="Btech1" style="margin-right: 25px">1st Year</label>
+          <input type="checkbox" name="Class[]" value="Btech2">
+          <label for="Btech2" style="margin-right: 19px">2nd Year</label>
+        </div>
+        <div id="class_pref_row">
+          <input type="checkbox" name="Class[]" value="Btech3" style="margin-left: 86px;">
+          <label for="Btech3" style="margin-right: 25px">3rd Year</label>
+          <input type="checkbox" name="Class[]" value="Btech4">
+          <label for="Btech4" style="margin-right: 19px">4th Year</label>
+        </div>
+        <HR style =" border: 1px solid #ac80ff; width: 300px; border-radius: 2px;">
+        <div id="class_pref_row">
+          <label for="Bcom" style="margin-right: 25px"><strong>Bcom:</strong></label>
+          <input type="checkbox" name="Class[]" value="Bcom1">
+          <label for="Bcom1" style="margin-right: 25px">1st Year</label>
+          <input type="checkbox" name="Class[]" value="Bcom2">
+          <label for="Bcom2" style="margin-right: 19px">2nd Year</label>
+        </div>
+        <div id="class_pref_row">
+          <input type="checkbox" name="Class[]" value="Bcom3" style="margin-left: 86px;">
+          <label for="Bcom3" style="margin-right: 25px">3rd Year</label>
+          <input type="checkbox" name="Class[]" value="Bcom4">
+          <label for="Bcom4" style="margin-right: 19px">4th Year</label>
+        </div>

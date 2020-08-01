@@ -1,0 +1,15 @@
+1: Class wise subject preference of tutors.
+	Done in code, database needs to be updated accordingly.
+	
+2: Gender, Location(top priority) wise sorting of tutors.
+	Its is really diffcult for me.
+
+3: Feedback from users.
+	Done
+
+4: Expected Tution Fee.
+	I think it should not be added here, bcoz there can be a variety of range.
+	Let the tutor demand when he gets accepted.
+
+5: Document Verification when tutor receive offer.
+	At the time of acceptance.
